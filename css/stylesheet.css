@@ -120,6 +120,7 @@
 .chatlist {
     border-right: 1px solid #C7C2B8;
     background: #EBE9DC;
+    height:100%;
 }
 
 .chatbar {
